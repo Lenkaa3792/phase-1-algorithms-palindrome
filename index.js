@@ -1,10 +1,12 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  return true;
 }
 
 /* 
   Add your pseudocode here
 */
+
 
 /*
   Add written explanation of your solution here
